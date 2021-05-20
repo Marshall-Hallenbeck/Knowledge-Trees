@@ -11,11 +11,6 @@ The goal of this application is to help the user create and navigate through his
 ## Demo
 ![demo](https://user-images.githubusercontent.com/49093606/58501701-5d5e9f00-815b-11e9-808e-8cc89ca838e9.gif)
 
-## Installation
-[Download](https://filebin.net/1pupobzi9uids7ov/KnowledgeTree.zip)
-
-Unzip and run setup.exe!
-
 ## Contributing
 Please feel free to take a look at the open issues and work on any items you are interested.
 
