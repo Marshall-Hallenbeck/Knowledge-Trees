@@ -1,10 +1,5 @@
 # Knowledge Trees
 
-## Installation
-[Download](https://filebin.net/1pupobzi9uids7ov/KnowledgeTree.zip)
-
-Unzip and run setup.exe!
-
 ## About
 I try to write about the important things I learn. I used to do this by creating an empty folder in my desktop and populating it with word documents. Each word document would be related to a broad topic, such as History, and within that word document I would write everything I learned about the subject.
 
